@@ -19,7 +19,7 @@ Aqui estão centralizados os projetos utilizados para desenvolvimento de dashboa
 | Repositório                                                                | Descrição                                                                                               | Status                |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------- |
 | [PipelineCobranca](https://github.com/cmp-raizeducacao/PipelineCobranca)   | Automação para envio de lembretes de cobrança.                                                          | 🚧 Em desenvolvimento |
-| [PainelCiclo2027](https://github.com/cmp-raizeducacao/PainelCiclo2027)     | Dashboard de acompanhamento de reserva de vagas e candidatos.                                           | 🚧 Em desenvolvimento |
+| [PainelCiclo2027](https://github.com/cmp-raizeducacao/PainelCiclo2027)     | Dashboard de acompanhamento de reserva de vagas e candidatos.                                           | ✅ Concluído |
 | [AwesomeCodex](https://github.com/cmp-raizeducacao/AwesomeCodex)           | Skills, agentes e ferramentas de IA para apoiar o time.                                                 | 🚧 Em desenvolvimento |
 | [DataHub-Comercial](https://github.com/cmp-raizeducacao/DataHub-Comercial) | Plataforma de engenharia de dados para coleta, tratamento e disponibilização de informações comerciais. | ✅ Concluído           |
 
