@@ -9,7 +9,6 @@ Aqui estão centralizados os projetos utilizados para desenvolvimento de dashboa
 | Nome                | Cargo                                    |
 | ------------------- | ---------------------------------------- |
 | João Pedro Azambuja | Coordenador de Precificação, Metas e CRM |
-| Yasmin Freitas      | Analista Sênior de CRM                   |
 | Nathan Rosário      | Analista Pleno de CRM                    |
 | Iuri Mendonça       | Analista Júnior de CRM                   |
 | Victor Cabana       | Estagiário de Precificação e Metas       |
@@ -18,11 +17,11 @@ Aqui estão centralizados os projetos utilizados para desenvolvimento de dashboa
 
 | Repositório                                                                | Descrição                                                                                               | Status                |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------- |
-| [PipelineCobranca](https://github.com/cmp-raizeducacao/PipelineCobranca)   | Automação para envio de lembretes de cobrança.                                                          | 🚧 Em desenvolvimento |
-| [AwesomeCodex](https://github.com/cmp-raizeducacao/AwesomeCodex)           | Skills, agentes e ferramentas de IA para apoiar o time.                                                 | 🚧 Em desenvolvimento |
-| [gestaohubspot](https://github.com/cmp-raizeducacao/gestaohubspot) | Plataforma para gerenciar usuários do Hubspot | 🚧 Em desenvolvimento |
+| [PipelineCobranca](https://github.com/cmp-raizeducacao/PipelineCobranca)   | Automação para envio de lembretes de cobrança.                                                          | ✅ Concluído |
+| [gestaohubspot](https://github.com/cmp-raizeducacao/gestaohubspot) | Plataforma para gerenciar usuários do Hubspot | ✅ Concluído |
 | [PainelCiclo2027](https://github.com/cmp-raizeducacao/PainelCiclo2027)     | Dashboard de acompanhamento de reserva de vagas e candidatos.                                           | ✅ Concluído |
 | [DataHub-Comercial](https://github.com/cmp-raizeducacao/DataHub-Comercial) | Plataforma de engenharia de dados para coleta, tratamento e disponibilização de informações comerciais. | ✅ Concluído |
+| [AwesomeCodex](https://github.com/cmp-raizeducacao/AwesomeCodex)           | Skills, agentes e ferramentas de IA para apoiar o time.                                                 | 🚧 Em desenvolvimento |
 
 ## Segurança
 
