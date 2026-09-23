@@ -19,9 +19,10 @@ Aqui estão centralizados os projetos utilizados para desenvolvimento de dashboa
 | Repositório                                                                | Descrição                                                                                               | Status                |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------- |
 | [PipelineCobranca](https://github.com/cmp-raizeducacao/PipelineCobranca)   | Automação para envio de lembretes de cobrança.                                                          | ✅ Concluído |
-| [gestaohubspot](https://github.com/cmp-raizeducacao/gestaohubspot) | Plataforma para gerenciar usuários do Hubspot | ✅ Concluído |
+| [gestaohubspot](https://github.com/cmp-raizeducacao/gestaohubspot)         | Plataforma para gerenciar usuários do Hubspot | ✅ Concluído |
 | [DataHub-Comercial](https://github.com/cmp-raizeducacao/DataHub-Comercial) | Plataforma de engenharia de dados para coleta, tratamento e disponibilização de informações comerciais. | ✅ Concluído |
 | [AwesomeCodex](https://github.com/cmp-raizeducacao/AwesomeCodex)           | Skills, agentes e ferramentas de IA para apoiar o time.                                                 | 🚧 Em desenvolvimento |
+| [matriculas-raiz](https://github.com/cmp-raizeducacao/matriculas-raiz)     | CRM operacional para uso do time comercial e unidades escolares.                                        | 🚧 Em desenvolvimento |
 | [PainelCiclo2027](https://github.com/cmp-raizeducacao/PainelCiclo2027)     | Dashboard de acompanhamento de reserva de vagas e candidatos.                                           | ⛔ Descontinuado |
 
 ## Segurança
