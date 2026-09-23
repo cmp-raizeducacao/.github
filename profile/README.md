@@ -1,6 +1,6 @@
-# Raiz Educação | CRM, Precificação e Metas
+# Raiz Educação | CRM, Metas e Precificação
 
-Organização GitHub da área de **CRM, Precificação e Metas** da Raiz Educação.
+Organização GitHub da área de **CRM, Metas e Precificação** da Raiz Educação.
 
 Aqui estão centralizados os projetos utilizados para desenvolvimento de dashboards, pipelines de dados, integrações, automações e ferramentas internas que apoiam as áreas comerciais e de gestão.
 
